@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
-comments: true
+title: Qui sommes-nous ?
+permalink: /a-propos
+comments: false
 ---
 
 <div class="row justify-content-between">
