@@ -8,27 +8,27 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Bonjour ! Nous nous appelons Guillaume et Océane et sommes deux français qui ont décidé de partir vivre en suite suite à une opportunité professionnelle. Il faut dire que le cadre est alléchat : au bord du lac Léman, avec vue sur les Alpes, pas trop loin de la France et donc de nos proches, ça fait rêver surtout quand on on pense au cadre dans lequel notre fil de 2 ans pourrait évoluer !</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>Mais comme toute expatriation, il y a aussi son lot de découverte, de surprises, de galères et de paperasse. Le but de ce blog est avant tout de vous partager tout ça !</p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<h4>Le canton de Vaud, kézako ?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>La Suisse est divisée en 26 cantons qui ont chacun leur niveau d'autonomie : consitution, parlement, gouvernement et tribunaux entre autres. Le canton de Vaud est l'un d'entre eux, avec pour chef-lieu Lausanne. Il est situé le long de la rive Nord du Lac Léman.</p>
 
+<h4>Pourquoi ce blog ?</h4>
+<p> En nous renseignant sur Lausanne avant de décider d'y vivre, nous avons été surpris de voir le peu d'informations en ligne sur la ville, le canton et les environs. Alors nous avons décidé d'y remédier et de créer un endroit où partager nos découvertes, nos bons plans et notre quotidien.</p>
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Et si vous nous offriez un café ?</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Vous aimez ce blog ? Votre don nous aide à le maintenir et à nous donner la caféine nécessaire pour le tenir à jour après notre journée de travail. Merci pour votre soutien !</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://paypal.me/pools/c/8qrFTDsR8U" class="btn btn-danger">Offrez-nous un café</a>
 
 </div>
 </div>

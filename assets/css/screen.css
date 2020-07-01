@@ -19,7 +19,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .mainheading {
     padding: 0rem 1rem;
-    margin: 1rem 0rem;
+    margin: 2rem 0rem;
     border-left: 15px solid #146277;
 }
 
@@ -43,6 +43,11 @@ a:hover {
 .site-content a:hover {
     background-image: linear-gradient(to top, var(--link-bg-color-hover) 30%, rgba(0, 0, 0, 0) 45%);
 }
+
+a.btn:hover {
+    background-image: none;
+}
+
 
 .post-read-more a:hover, .share a:hover, .post-top-meta a:hover {
     background-image: none;

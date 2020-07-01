@@ -1,15 +1,16 @@
 # Site
 name: "Ça Vaud le détour"
 title: "Ça Vaud le détour"
-description: "Découverte du pays vaudois par une famille expatriée en Suisse."
+description: "Découverte du pays vaudois au travers des yeux d'une famille expatriée en Suisse..."
 logo: 'assets/images/cvd-logo.png'
 favicon: 'assets/images/cvd-logo.png'
 baseurl: /ca-vaud-le-detour
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'ca-vaud-le-detour'
 mailchimp-list: false
 include: ["_pages"]
 permalink: /:title/
+default_locale: "fr"
 
 # Authors
 authors:
