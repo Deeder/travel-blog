@@ -35,6 +35,8 @@ GEM
       jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.14.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-i18n (1.0.3)
+      jekyll
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (2.1.0)
       sassc (> 2.0.1, < 3.0)
@@ -78,6 +80,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-archives
   jekyll-feed
+  jekyll-i18n
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
